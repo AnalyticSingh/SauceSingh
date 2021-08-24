@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Partap Singh Hothi aka @SauceSingh
+- 👀 I’m interested in Sports Analytics, mainly the NBA
+- 🌱 I’m currently learning and working in R and RStudio
+- 📫 Reach me on twitter.com/ or partap.hothi@gmail.com
